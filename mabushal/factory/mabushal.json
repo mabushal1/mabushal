@@ -1,0 +1,9 @@
+{
+	"name": "mabushal",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f042e2a1-7996-4093-98f1-ebb3710ba556",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}

@@ -10,17 +10,10 @@
 				"typeProperties": {
 					"waitTimeInSeconds": 4
 				}
-			},
-			{
-				"name": "Wait2",
-				"type": "Wait",
-				"dependsOn": [],
-				"userProperties": [],
-				"typeProperties": {
-					"waitTimeInSeconds": 20
-				}
 			}
 		],
-		"annotations": []
-	}
+		"annotations": [],
+		"lastPublishTime": "2022-09-23T11:50:10Z"
+	},
+	"type": "Microsoft.DataFactory/factories/pipelines"
 }
